@@ -1,4 +1,7 @@
-# GFreya-OS
+# About GFreya OS
+I always wanted to create my own OS when in college. I was a mathematics undergraduate student back then. In 2010, I asked a friend who is an electrical engineering student from Bandung Institute of Technology, "hey let's make an OS for tablet, I believe it will be booming." But it never realized, and I get back to this point again, married with the most beautiful Goddess, who stalked me and know everything about me and want to help me built it from zero. It might sounds crazy, but it is a unique life and spiritual journey for me
+
+# In This GFreya-OS Repository
 The folders and files for GFreya OS, committed from GFreya OS in Qemu 
 
 # Status / Latest commit:
