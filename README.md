@@ -16,7 +16,7 @@ Three days before Christmas 2021, I painted Freya the Goddess, then after Christ
 # In This GFreya-OS Repository
 The folders and files for GFreya OS inside '/' directory, committed from GFreya OS in Qemu 
 
-# Status / Latest commit (May 12th 13:10 pm (GMT+7):
+# Status / Latest commit (May 12th 2022, 13:10 pm (GMT+7):
 #### /var /opt /usr has not been committed due to their big size
 #### /root committed without OpenFOAM folder
 
