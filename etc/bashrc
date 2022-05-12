@@ -1,0 +1,25 @@
+# System wide aliases and functions
+# System wide environment variables and startup programs should 
+# go into /etc/profile.
+# Personal environment variables and startup programs should go into
+# ~/.bash_profile
+# Personal aliases and functions should go into ~/.bashrc
+
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+
+NORMAL="\[\e[0m\]"
+RED="\[\e[1;31m\]"
+GREEN="\[\e[1;32m\]"
+if [[ $EUID == 0 ]] ; then
+	PS1="$RED\u [ $NORMAL\w$RED ]# $NORMAL"
+else 
+	PS1="$GREEM\u [ $NORMAL\w$GREEN ]\$ $NORMAL"
+fi
+
+unset RED GREEN NORMAL
+
+# End /etc/bashrc
+
+export IGNOREEOF=1
+

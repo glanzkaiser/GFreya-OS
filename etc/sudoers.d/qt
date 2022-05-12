@@ -1,0 +1,3 @@
+Defaults env_keep += QT5DIR
+Defaults env_keep += QT_PLUGIN_PATH
+Defaults env_keep += QML2_IMPORT_PATH

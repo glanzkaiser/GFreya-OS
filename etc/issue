@@ -1,0 +1,17 @@
+[H[J[3J
+
+Die Baudrate: 		\b
+Das Datum: 		\d
+Die Zeit:		\t
+Das System:		\s
+Der Fernschreiber:	\l
+Die Maschine:		\m
+Der Hostname:		\n
+Die Domanenname:	\o
+Der Kern:		\r
+Zur Zeit:		\U
+Kernel Gebaut:		\v
+
+Das ist \n. \o (\s \m \r) \t
+C'est \n. \o (\s \m \r) \t
+Hic est \n. \o (\s \m \r) \t

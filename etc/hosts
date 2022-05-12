@@ -1,0 +1,6 @@
+# Begin /etc/hosts
+
+127.0.0.1 localhost.localdomain localhost
+192.168.122.233 GFreya.freya.valhalla GFreya
+
+# End /etc/hosts

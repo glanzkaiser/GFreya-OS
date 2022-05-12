@@ -1,0 +1,8 @@
+[Match]
+Name=enp0s3
+
+[Network]
+Address=192.168.122.233/24
+Gateway=192.168.122.1
+DNS=192.168.122.1
+Domains=freya.valhalla

@@ -1,0 +1,3 @@
+Defaults secure_path="/usr/sbin:/usr/bin"
+%wheel ALL=(ALL) NOPASSWD: ALL
+freya ALL=(ALL:ALL) NOPASSWD: ALL
