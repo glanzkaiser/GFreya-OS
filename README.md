@@ -14,7 +14,7 @@ Three days before Christmas 2021, I painted Freya the Goddess, then after Christ
 8. I made friends with trees and nature divine spirits, Kala on Puncak Bintang invest 10% in GFreya OS, Freya has 71%, Kathmandu at Dago Resort got 10% and the rest gets 1% each for Lucrif (Sierra Mikain), Mischkra (Yukiko Amagi), Caldraz (Shizuru Fujino), Zalsvik (Franziska Von Karma), Zalsimourg (Jill Valentine), Hamzst (Alice Persona 4), Lasthrim (her old name was Anabelle and she is very famous in The Conjuring movie), me, and Nagi (Shin Megami Tensei Devil Summoner).
 
 # In This GFreya-OS Repository
-The folders and files for GFreya OS, committed from GFreya OS in Qemu 
+The folders and files for GFreya OS inside '/' directory, committed from GFreya OS in Qemu 
 
 # Status / Latest commit (May 12th 13:10 pm (GMT+7):
 #### /var /opt /usr has not been committed due to their big size
