@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ReactPhysics3D
+Comment=3D Physics Engine for Simulations and Game
+Exec=xterm -hold -e 'cd $GHZ/ReactPhysics3D/build/testbed/ && ./reactphysics3d'
+Icon=/opt/hamzstlib/icon/reactphysics3d.png
+Categories=Hamzstlab
+Version=0.9.0
+Type=Application
+Terminal=0

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GRASSGIS
+Comment=Geospatial data management and analysis
+Exec=grass --gui
+Icon=/opt/hamzstlib/icon/grass.ico
+Categories=Hamzstlab
+Version=8.0
+Type=Application
+Terminal=0

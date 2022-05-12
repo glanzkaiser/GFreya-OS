@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Sudoku
+Comment=Simple mais amusant
+Exec=xterm -hold -e python3 /usr/share/caldrazgames/sudoku.py
+Icon=/opt/hamzstlib/icon/sudoku.ico
+Categories=CaldrazGames
+Version=1.66
+Type=Application
+Terminal=0

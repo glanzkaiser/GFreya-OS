@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=geomview
+Comment=View and manipulat 3-d objects
+Exec=/opt/hamzstlib/bin/geomview
+Icon=/opt/hamzstlib/icon/geomview
+Categories=Development;Hamzstlab
+Version=1.9.5
+Type=Application
+Terminal=0

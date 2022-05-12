@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Vedo
+Comment=Scientific 3D Viewer
+Exec=vedo -n %F
+Icon=/opt/hamzstlib/icon/vedo.png
+Categories=Hamzstlab
+Version=2022.2.0
+Type=Application
+Terminal=0

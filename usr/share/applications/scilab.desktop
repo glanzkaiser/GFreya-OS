@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Scilab
+Comment=Scientific software for numerical computations
+Exec=/opt/hamzstlib/scilab-6.1.1/bin/scilab
+Icon=/opt/hamzstlib/icon/scilab.png
+Categories=Hamzstlab
+Version=6.1.1
+Type=Application
+Terminal=0

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Tetris
+Comment=Le jeu prefere de tout le monde
+Exec=xterm -hold -e 'cd /opt/caldrazgames/caldrazgames/Tetris && python3 run.py'
+Icon=/opt/caldrazgames/caldrazgames/icon/tetris.ico
+Categories=CaldrazGames
+Version=1.23
+Type=Application
+Terminal=0

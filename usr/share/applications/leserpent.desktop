@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Le Serpent
+Comment=Soyez le plus grande Serpent
+Exec=python3 /usr/share/caldrazgames/snakegame.py
+Icon=/opt/hamzstlib/icon/snake.ico
+Categories=CaldrazGames
+Version=1.19
+Type=Application
+Terminal=0

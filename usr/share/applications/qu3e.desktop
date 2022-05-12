@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=qu3e
+Comment=Simple 3D Physics Engine for Simulations and Game
+Exec=xterm -hold -e 'cd /opt/hamzstlib/Physics/qu3e/bin/ && ./demo'
+Icon=/opt/hamzstlib/icon/qu3e.png
+Categories=Hamzstlab
+Version=1.0.1
+Type=Application
+Terminal=0

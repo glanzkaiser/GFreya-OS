@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Super Mario Bros
+Comment=Aidez Mario a retrouver son frere
+Exec=xterm -hold -e 'cd /opt/caldrazgames/SuperMarioBros-C/build/ && ./smbc'
+Icon=/opt/caldrazgames/caldrazgames/icon/mario.ico
+Categories=CaldrazGames
+Version=1.37
+Type=Application
+Terminal=0

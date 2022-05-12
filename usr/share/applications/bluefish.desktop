@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bluefish
+Comment=Text editor
+Exec=/opt/hamzstlib/bin/bluefish
+Icon=/opt/hamzstlib/icon/bluefish.svg
+Categories=Development
+Version=2.2.12
+Type=Application
+Terminal=0
