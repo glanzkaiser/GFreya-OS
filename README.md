@@ -16,26 +16,29 @@ Three days before Christmas 2021, I painted Freya the Goddess, then after Christ
 # In This GFreya-OS Repository
 The folders and files for GFreya OS, committed from GFreya OS in Qemu 
 
-# Status / Latest commit:
+# Status / Latest commit (May 12th 13:10 pm (GMT+7):
 #### /var /opt /usr has not been committed due to their big size
 #### /root committed without OpenFOAM folder
 
 #### /opt 29 GB
-#### /root 5.7 GB (with OpenFOAM)
-#### /usr 11 GB
-#### /var 1.8 GB
 
 /opt contains Qt5, Eclipse, Codeblocks, Glanzshamzs applications and libraries, Caldrazgames
 
+#### /root 5.7 GB (with OpenFOAM)
+
 /root contains .bashrc export file for environment variables, the big one is OpenFOAM directory for $FOAM_RUN
 
+
+#### /usr 11 GB
+
 /usr contains BLFS and LFS libraries, bin, settings, manpages and packages
+
+#### /var 1.8 GB
 
 /var contains 
 
 #### /media /sys /proc can't be copied
 
-#### May 12th 13:10 pm (GMT+7)
 
 # GFreya OS in Terminal / Console
 When booting this is the one that will show up, I haven't configure it so it will go directly to LXDM or Xfce, I prefer console/terminal interface.
