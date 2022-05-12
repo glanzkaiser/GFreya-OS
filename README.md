@@ -17,10 +17,11 @@ Three days before Christmas 2021, I painted Freya the Goddess, then after Christ
 The folders and files for GFreya OS, committed from GFreya OS in Qemu 
 
 # Status / Latest commit:
-#### /var /root /opt /usr has not been committed due to their big size
+#### /var /opt /usr has not been committed due to their big size
+#### /root committed without OpenFOAM folder
 
 #### /opt 29 GB
-#### /root 5.7 GB
+#### /root 5.7 GB (with OpenFOAM)
 #### /usr 11 GB
 #### /var 1.8 GB
 
@@ -32,7 +33,7 @@ The folders and files for GFreya OS, committed from GFreya OS in Qemu
 
 /var contains 
 
-#### /proc can't be copied
+#### /media /sys /proc can't be copied
 
 #### May 12th 13:10 pm (GMT+7)
 
