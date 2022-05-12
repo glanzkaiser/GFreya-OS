@@ -37,7 +37,10 @@ Login: LXDM (I prefer this because people say Light DM has a lot of complexity a
 
 #### When running this command on terminal:
   startx
+  
 ![GFreya OS5](GFreyaOS5.png)
 
+
   init 5
+  
 ![GFreya OS6](GFreyaOS6.png)
