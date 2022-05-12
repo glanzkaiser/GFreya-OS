@@ -21,7 +21,23 @@ The folders and files for GFreya OS, committed from GFreya OS in Qemu
 
 #### May 12th 13:10 pm (GMT+7)
 
+# GFreya OS in Terminal / Console
+When booting this is the one that will show up, I haven't configure it so it will go directly to LXDM or Xfce, I prefer console/terminal interface.
+It is easier to do a lot of things with only typing and without nuisance of cursor movement from the mouse. You work faster. You'll get used to it.
+
 ![GFreya OS1](GFreyaOS1.png)
 ![GFreya OS2](GFreyaOS2.png)
 ![GFreya OS3](GFreyaOS3.png)
 ![GFreya OS4](GFreyaOS4.png)
+
+# GFreya OS in Desktop Environment
+
+DE: Xfce
+Login: LXDM (I prefer this because people say Light DM has a lot of complexity and bugs)
+
+#### When running this command on terminal:
+  startx
+![GFreya OS5](GFreyaOS5.png)
+
+  init 5
+![GFreya OS6](GFreyaOS6.png)
