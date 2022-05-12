@@ -1,0 +1,38 @@
+export prefix="/usr"
+export TEXARCH=$(uname -m | sed -e 's/i.86/i386/' -e 's/$/-linux/')
+export JAVA_HOME="/opt/jdk"
+
+export XORG_PREFIX="/usr"
+export XORG_CONFIG="--prefix=$XORG_PREFIX --sysconfdir=/etc --localstatedir=/var --disable-static"
+export PATH="/opt/qt5/bin:/opt/jdk/bin:/opt/hamzstlib/bin:/opt/texlive/2021/bin/x86_64-linux:/opt/hamzstlib/vtk9/vtk/bin:/opt/rustc/bin:/usr/bin:/usr/sbin"
+
+export KF5_PREFIX="/opt/kf5"
+export QT5PREFIX="/opt/qt5"
+export QT5BINDIR="/opt/qt5/bin"
+export QT5DIR="/opt/qt5"
+export CPLUS_INCLUDE_PATH="/usr:/opt/hamzstlib:/opt/hamzstlib/include/eigen3/Eigen"
+export PLUS_INCLUDE_PATH="/usr/include:/opt/hamzstlib/include"
+export C_INCLUDE_PATH="/usr/include:/opt/hamzstlib/include"
+export LIBRARY_PATH="/usr/lib:/usr/local/lib:/opt/hamzstlib/lib:/opt/hamzstlib/vtk9/vtk/vtkmodules:/opt/hamzstlib/vtk9/vtk/build/lib.linux-x86_64-3.9/vtkmodules:/opt/hamzstlib/vtk9/vtk/build/lib.linux-x86_64-3.9/vtkmodules/java/vtk-Linux-x86_64"
+export LD_LIBRARY_PATH=$LIBRARY_PATH
+
+# VTK
+export VTK_ROOT="/opt/hamzstlib/vtk9/vtk"
+export VTK_DATA_ROOT="/opt/hamzstlib/vtk9/vtkdata"
+
+
+# PYTHON
+export PYTHONPATH="/usr/lib/python3.9/site-packages:/opt/hamzstlib/vtk9/vtk"
+
+# For building
+
+export XDG_CONFIG_DIRS="/etc/xdg:/opt/kf5/etc/xdg"
+export XDG_DATA_DIRS="/opt/hamzstlib/share:/usr/local/share:/usr/share"
+export QT_PLUGIN_PATH="/opt/qt5/plugins:opt/kf5/lib/plugins:/opt/kf5/lib/plugins/kcms:/usr/lib/qt5/plugins:/usr/lib"
+export MANPATH="/usr/share/man:/opt/jdk/man"
+export PKG_CONFIG_PATH="/opt/hamzstlib/lib/pkgconfig:opt/hamzstlib/pkgconfig:/usr/lib/pkgconfig:/usr/share/pkgconfig"
+
+# JAVA
+export MANDATORY_MANPATH="/opt/jdk/man"
+export MANPATH_MAP="/opt/jdk/bin:/opt/jdk/man"
+export MANDB_MAP="/opt/jdk/man:/var/cache/man/jdk"

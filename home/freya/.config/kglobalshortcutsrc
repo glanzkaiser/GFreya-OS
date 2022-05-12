@@ -1,0 +1,17 @@
+[ActivityManager]
+_k_friendly_name=Activity Manager
+switch-to-activity-032b9069-f35f-4993-b0a3-483c1c2c4783=none,none,Switch to activity "Default"
+
+[org.kde.krunner.desktop]
+RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Run command on clipboard contents
+_k_friendly_name=KRunner
+_launch=Alt+Space\tAlt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,KRunner
+
+[systemsettings.desktop]
+_k_friendly_name=System Settings
+_launch=Tools,Tools,System Settings
+kcm-kscreen=,,Display Configuration
+kcm-lookandfeel=,,Global Theme
+kcm-users=,,Users
+powerdevilprofilesconfig=,,Energy Saving
+screenlocker=,,Screen Locking
