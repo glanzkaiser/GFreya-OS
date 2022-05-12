@@ -1,0 +1,5 @@
+git add .
+git commit -m "GFreya OS (the Hanging Garden-Sistine Chapel-Taj Mahal of Operating System)"
+git branch -M main
+git remote add origin https://github.com/glanzkaiser/GFreya-OS.git
+git push -u origin main
