@@ -30,7 +30,9 @@ https://drive.google.com/drive/folders/1qqbiM9qYu5HQScK4d22tO48komn9OjZP?usp=sha
 #### 6. Figuring out how to do this:
   1. When GFreya OS iso is booted
   2. Run an installation script similar to other distributions install iso. How to create an installation script?
+#### 7. Try to copy manually to USB -> /media /sys /proc can't be copied
 
+# Size of Important Folders (May 13th 2022, 20:37 pm (GMT+7):
 #### /opt 29 GB
 
 /opt contains Qt5, Eclipse, Codeblocks, Glanzshamzs applications and libraries, Caldrazgames
@@ -46,10 +48,6 @@ https://drive.google.com/drive/folders/1qqbiM9qYu5HQScK4d22tO48komn9OjZP?usp=sha
 
 #### /var 1.8 GB
 
-/var contains 
-
-#### /media /sys /proc can't be copied
-
 
 # GFreya OS in Terminal / Console
 When booting this is the one that will show up, I haven't configure it so it will go directly to LXDM or Xfce, I prefer console/terminal interface.
@@ -59,6 +57,16 @@ It is easier to do a lot of things with only typing and without nuisance of curs
 ![GFreya OS2](GFreyaOS2.png)
 ![GFreya OS3](GFreyaOS3.png)
 ![GFreya OS4](GFreyaOS4.png)
+
+When commiting from GFreya OS inside Qemu to glanzkaiser github GFreya-OS repository
+![GFreya Commit](GFreyaOScommit1.png)
+
+In LFS version 11.0 System V this is the correct network configuration to make internet running well in GFreya OS:
+![GFreya Network Configuration in LFS](GFreyaOSNetwork.png)
+
+The wireless data at my home:
+![GFreya Network Data](GFreyaOSNetwork2.png)
+
 
 # GFreya OS in Desktop Environment
 
