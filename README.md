@@ -19,9 +19,15 @@ The folders and files for GFreya OS inside '/' directory, committed from GFreya 
 # Link to Download Packages for hamzstlib and /opt
 https://drive.google.com/drive/folders/1qqbiM9qYu5HQScK4d22tO48komn9OjZP?usp=sharing
 
-# Status / Latest commit (May 12th 2022, 13:10 pm (GMT+7):
-#### /var /opt /usr has not been committed due to their big size
-#### /root committed without OpenFOAM folder
+# Status / Latest commit (May 13th 2022, 20:37 pm (GMT+7):
+#### 1. /var /opt /usr has not been committed fully due to their big size
+#### 2. /root committed without OpenFOAM folder only bash files of export (storing all env variables), printoutput (print all files in a directory) and pythonvtk.
+#### 3. From '/' directory, type: 
+  tar -cvzf gfreya.tar.bzip2 /* 
+  (*can't copy the symlinks)
+#### 4. Thinking of create ISO for basic GFreya OS with separated /opt (but it included Qt5 and Rust, will there be a problem?)
+#### 5. Start using CloneZilla to create image of my GFreya OS in Qemu 
+
 
 #### /opt 29 GB
 
