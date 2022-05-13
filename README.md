@@ -27,7 +27,9 @@ https://drive.google.com/drive/folders/1qqbiM9qYu5HQScK4d22tO48komn9OjZP?usp=sha
   (*can't copy the symlinks)
 #### 4. Thinking of create ISO for basic GFreya OS with separated /opt (but it included Qt5 and Rust, will there be a problem?)
 #### 5. Start using CloneZilla to create image of my GFreya OS in Qemu 
-
+#### 6. Figuring out how to do this:
+  1. When GFreya OS iso is booted
+  2. Run an installation script similar to other distributions install iso. How to create an installation script?
 
 #### /opt 29 GB
 
