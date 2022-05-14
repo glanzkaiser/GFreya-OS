@@ -31,6 +31,7 @@ https://drive.google.com/drive/folders/1qqbiM9qYu5HQScK4d22tO48komn9OjZP?usp=sha
   1. When GFreya OS iso is booted
   2. Run an installation script similar to other distributions install iso. How to create an installation script?
 #### 7. Try to copy manually to USB -> /media /sys /proc can't be copied
+#### 8. On CAELinux terminal try to do LFS 11.1 and then proceed to BLFS to re-create GFreya OS
 
 # Size of Important Folders (May 13th 2022, 20:37 pm (GMT+7):
 #### /opt 29 GB
