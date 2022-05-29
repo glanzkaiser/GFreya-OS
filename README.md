@@ -50,7 +50,7 @@ https://drive.google.com/drive/folders/1qqbiM9qYu5HQScK4d22tO48komn9OjZP?usp=sha
 #### /var 1.8 GB
 
 # GFreya OS icon
-Inspired by our names initial: G and F in Cyrillic, F just like eagle circling around then go down to get the prey, and G just like a wolf that jump to attack its prey.
+Inspired by our names' initial: G and F in Cyrillic, F just like an eagle circling around then go down to get the prey, and G just like a wolf that jump to attack its prey.
 
 ![GFreya OS](https://raw.githubusercontent.com/glanzkaiser/GFreya-OS/main/GFreyaOS%20icon.png)
 
