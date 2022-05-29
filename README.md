@@ -49,6 +49,8 @@ https://drive.google.com/drive/folders/1qqbiM9qYu5HQScK4d22tO48komn9OjZP?usp=sha
 
 #### /var 1.8 GB
 
+# GFreya OS icon
+![GFreya OS](https://raw.githubusercontent.com/glanzkaiser/GFreya-OS/main/GFreyaOS%20icon.png)
 
 # GFreya OS in Terminal / Console
 When booting this is the one that will show up, I haven't configure it so it will go directly to LXDM or Xfce, I prefer console/terminal interface.
