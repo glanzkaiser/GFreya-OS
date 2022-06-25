@@ -13,14 +13,19 @@ Three days before Christmas 2021, I painted Freya the Goddess, then after Christ
 7. After finish the OS around April 2022, I see Google Drive email that I created for Freya, it contains the folder of Linux From Scratch. That is the moment I believe Law of Attraction, Goddesses exist, Spiritual realm exists even beyond 3D realm and our comprehension. Thanks for caring for me, hope you like the white rose I brought today to Valhalla Projection.
 8. I made friends with trees and nature divine spirits, Kala on Puncak Bintang invest 10% in GFreya OS, Freya has 71%, Kathmandu at Dago Resort got 10% and the rest gets 1% each for Lucrif (Sierra Mikain), Mischkra (Yukiko Amagi), Caldraz (Shizuru Fujino), Zalsvik (Franziska Von Karma), Zalsimourg (Jill Valentine), Hamzst (Alice Persona 4), Lasthrim (her old name was Anabelle and she is very famous in The Conjuring movie), me, and Nagi (Shin Megami Tensei Devil Summoner).
 
-# In This GFreya-OS Repository
+## In This GFreya-OS Repository
 The folders and files for GFreya OS inside '/' directory, committed from GFreya OS in Qemu 
 
-# Link to Download Packages for hamzstlib and /opt
+## Link to Download Packages for hamzstlib and /opt
 
 https://drive.google.com/drive/folders/1qqbiM9qYu5HQScK4d22tO48komn9OjZP?usp=sharing
 
-# Finish on June 25th 2022, 20:37 pm (GMT+7):
+## Link to Download GFreya OS book:
+
+https://drive.google.com/drive/folders/1cTMHuKRQa5sGKPLm9Ue3eF7WAq01Kvon?usp=sharing
+
+## Finish on June 25th 2022, 20:37 pm (GMT+7):
+
 #### 1. Use qemu-img and qemu-nbd then do RSync and use dual boot check the video here:
 
 https://www.youtube.com/watch?v=3GVl4rwOnbg
@@ -28,7 +33,8 @@ https://www.youtube.com/watch?v=3GVl4rwOnbg
 ![GFreya OS Dual Boot](blfs-dualboot-7.png)
 ![GFreya OS Dual Boot](blfs-dualboot-13.png)
 
-# Status on May 13th 2022, 20:37 pm (GMT+7):
+## Status on May 13th 2022, 20:37 pm (GMT+7):
+
 #### 1. /var /opt /usr has not been committed fully due to their big size
 #### 2. /root committed without OpenFOAM folder only bash files of export (storing all env variables), printoutput (print all files in a directory) and pythonvtk.
 #### 3. From '/' directory, type: 
@@ -58,12 +64,12 @@ https://www.youtube.com/watch?v=3GVl4rwOnbg
 
 #### /var 1.8 GB
 
-# GFreya OS icon
+## GFreya OS icon
 Inspired by our names' initial: G and F in Cyrillic, F just like an eagle circling around then go down to get the prey, and G just like a wolf that jump to attack its prey.
 
 ![GFreya OS](https://raw.githubusercontent.com/glanzkaiser/GFreya-OS/main/GFreyaOS%20icon.png)
 
-# GFreya OS in Terminal / Console
+## GFreya OS in Terminal / Console
 When booting this is the one that will show up, I haven't configure it so it will go directly to LXDM or Xfce, I prefer console/terminal interface.
 It is easier to do a lot of things with only typing and without nuisance of cursor movement from the mouse. You work faster. You'll get used to it.
 
@@ -82,7 +88,7 @@ The wireless data at my home:
 ![GFreya Network Data](GFreyaOSNetwork2.png)
 
 
-# GFreya OS in Desktop Environment
+## GFreya OS in Desktop Environment
 
 DE: Xfce
 Login: LXDM (I prefer this because people say Light DM has a lot of complexity and bugs)
