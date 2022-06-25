@@ -17,9 +17,18 @@ Three days before Christmas 2021, I painted Freya the Goddess, then after Christ
 The folders and files for GFreya OS inside '/' directory, committed from GFreya OS in Qemu 
 
 # Link to Download Packages for hamzstlib and /opt
+
 https://drive.google.com/drive/folders/1qqbiM9qYu5HQScK4d22tO48komn9OjZP?usp=sharing
 
-# Status / Latest commit (May 13th 2022, 20:37 pm (GMT+7):
+# Finish on June 25th 2022, 20:37 pm (GMT+7):
+#### 1. Use qemu-img and qemu-nbd then do RSync and use dual boot check the video here:
+
+https://www.youtube.com/watch?v=3GVl4rwOnbg
+
+![GFreya OS Dual Boot](blfs-dualboot-7.png)
+![GFreya OS Dual Boot](blfs-dualboot-13.png)
+
+# Status on May 13th 2022, 20:37 pm (GMT+7):
 #### 1. /var /opt /usr has not been committed fully due to their big size
 #### 2. /root committed without OpenFOAM folder only bash files of export (storing all env variables), printoutput (print all files in a directory) and pythonvtk.
 #### 3. From '/' directory, type: 
