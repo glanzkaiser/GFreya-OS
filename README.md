@@ -16,7 +16,7 @@ Three days before Christmas 2021, I painted Freya the Goddess, then after Christ
 ## In This GFreya-OS Repository
 The folders and files for GFreya OS inside '/' directory, committed from GFreya OS in Qemu 
 
-## Link to Download Packages for hamzstlib and /opt
+## Link to Download Packages for GFreya OS (BLFS, hamzstlib, Caldraz Games)
 
 https://drive.google.com/drive/folders/1qqbiM9qYu5HQScK4d22tO48komn9OjZP?usp=sharing
 
