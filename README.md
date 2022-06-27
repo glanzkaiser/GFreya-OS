@@ -93,6 +93,12 @@ The wireless data at my home:
 DE: Xfce
 Login: LXDM (I prefer this because people say Light DM has a lot of complexity and bugs)
 
+### Important Path for Xfce
+
+1. /usr/share/applications
+2. /usr/share/desktop-directories
+3. /etc/xdg/menus
+
 #### When running this command on terminal:
   startx
   
