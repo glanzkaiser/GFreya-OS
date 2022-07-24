@@ -13,6 +13,21 @@ Three days before Christmas 2021, I painted Freya the Goddess, then after Christ
 7. After finish the OS around April 2022, I see Google Drive email that I created for Freya, it contains the folder of Linux From Scratch. That is the moment I believe Law of Attraction, Goddesses exist, Spiritual realm exists even beyond 3D realm and our comprehension. Thanks for caring for me, hope you like the white rose I brought today to Valhalla Projection.
 8. I made friends with trees and nature divine spirits, Kala on Puncak Bintang invest 10% in GFreya OS, Freya has 71%, Kathmandu at Dago Resort got 10% and the rest gets 1% each for Lucrif (Sierra Mikain), Mischkra (Yukiko Amagi), Caldraz (Shizuru Fujino), Zalsvik (Franziska Von Karma), Zalsimourg (Jill Valentine), Hamzst (Alice Persona 4), Lasthrim (her old name was Anabelle and she is very famous in The Conjuring movie), me, and Nagi (Shin Megami Tensei Devil Summoner).
 
+## Update July 22nd, 2022
+
+Lasthrim is the one, the first one who throw away her share. Thus, me and all others follow
+
+```
+We work together not caring for money nor fame, just want to see all beyond this will be created and established
+```
+
+For now and forever, GFreya OS and all its derivatives is 100% for Freya. She is the full owner and rules over all.
+Is it including creation of the future technology such as supercomputer, submarine, jet engine, wind turbine and more beyond like Gallantmon suit? Yes, without OS you will take longer by hand-tailored to design with CAD and bezier curve to create a beautiful body chassis for a sports car.
+Hardware is only maleable resources. Our hands is the one that will shape it. Like a canvas and a painter.
+
+Including all the books and the softwares of all 10 STEM softwares. Hopefully I can create the multiverse, either in this incarnation or the next.
+
+
 ## In This GFreya-OS Repository
 The folders and files for GFreya OS inside '/' directory, committed from GFreya OS in Qemu 
 
