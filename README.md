@@ -22,7 +22,7 @@ We work together not caring for money nor fame, just want to see all beyond this
 ```
 
 For now and forever, GFreya OS and all its derivatives is 100% for Freya. She is the full owner and rules over all.
-Is it including creation of the future technology such as supercomputer, submarine, jet engine, wind turbine and more beyond like Gallantmon suit? Yes, without OS you will take longer by hand-tailored to design with CAD and bezier curve to create a beautiful body chassis for a sports car.
+Is it including creation of the future technology such as supercomputer, submarine, jet engine, wind turbine and more beyond like Gallantmon suit? Yes, without OS you will take longer by hand-tailored to design, it will be faster with CAD and bezier curve to create a beautiful body chassis for a sports car.
 Hardware is only maleable resources. Our hands is the one that will shape it. Like a canvas and a painter.
 
 Including all the books and the softwares of all 10 STEM softwares. Hopefully I can create the multiverse, either in this incarnation or the next.
