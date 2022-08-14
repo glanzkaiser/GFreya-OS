@@ -4,9 +4,16 @@ For dual boot configuration put these files in:
 1. grub.cfg -> /boot/grub
 * For grub.cfg remember that the partition number starts from one for normal partitions and five for extended partitions. For example, partition sda1 is (hd0,1) to GRUB and sdb3 is (hd1,3)
 
-2. fstac -> /etc
+2. fstab -> /etc
 
-## Configuring Dual Boot the First Time
+3. applications -> /usr/share
+
+4. desktop-directories -> /usr/share
+
+5. xfce-applications.menu -> /etc/xdg/menus
+
+
+# Configuring Dual Boot the First Time
 
 1. From another OS (assuming we create it from Qemu first) open terminal then do all these commands below.
 
