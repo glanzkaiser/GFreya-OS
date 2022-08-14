@@ -57,7 +57,7 @@ You may check the /boot/grub/grub.cfg (from CAELinux filesystem directory,then s
     lshw |grep vga
     ```
   
-  	See the driver then reconfigure the kernel when opening GFreya OS with the laptop directly, type
+    See the driver then reconfigure the kernel when opening GFreya OS with the laptop directly, type
     ```
     cd /sources/linux-5.13.12
     make menuconfig
@@ -72,14 +72,14 @@ You may check the /boot/grub/grub.cfg (from CAELinux filesystem directory,then s
     ```
 6. Edit `/etc/X11/xorg.conf` and `~/xorg.conf.new` and adjust the driver and BusID with the VGA information that you get from `lspci` command.
 
-    	```
- 	Section "Module"
-	Load "nouveau"
+    ```
+    Section "Module"
+    Load "nouveau"
     
-	Section "Device"
-	Driver "nouveau"
-	BusID "PCI:1:0:0"
- 	```
+    Section "Device"
+    Driver "nouveau"
+    BusID "PCI:1:0:0"
+    ```
  
 #### Important kernel module for GFreyaOS in Dual Boot:
 1. Device Drivers -> Graphics Support
