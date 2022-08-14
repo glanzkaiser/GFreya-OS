@@ -47,7 +47,7 @@ Open terminal at CAELinux then type:
 ```
 sudo -i
 cd /path/to/mounted-GFreyaOS/
-sudo rsync -rah --stats --info=progress2 '. '/FreyaSSD
+sudo rsync -rah --stats --info=progress2 . '/FreyaSSD'
 ```
 
 3. Now open terminal of your host OS / CAELinux, then type:
