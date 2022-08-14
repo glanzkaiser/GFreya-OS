@@ -30,7 +30,7 @@ sudo qemu-nbd --disconnect /dev/nbd0
 rmmod nbd
 ```
 
-2. I am using 2 SSD, one for CAELinux and the other for GFreya OS, thus I use Rsync to copy the Freya OS from the mounted drive to the second SSD (The second SSD is mounted on /FreyaSSD, hence we can see the files of the second OS from CAELinux inside /FreyaSSD, viceversa).
+2. I am using 2 SSDs, one for CAELinux and the other for GFreya OS, thus I use Rsync to copy the Freya OS from the mounted drive to the second SSD (The second SSD is mounted on /FreyaSSD, hence we can see the files of the second OS from CAELinux inside /FreyaSSD, viceversa).
 
 Open terminal at CAELinux then type:
 
@@ -62,12 +62,12 @@ You may check the /boot/grub/grub.cfg (from CAELinux filesystem directory,then s
     cd /sources/linux-5.13.12
     make menuconfig
     ```
-    Press `/` then type `nouveau` for nVidia graphics card driver. Then enable it as module (M), save and exit then type:
+    Press `/` then type `nouveau` for nVidia graphics card driver. Then enable it as module [M], save and exit then type:
     ```
     make
     make modules_install
     cp -iv arch/x86/boot/bzImage /boot/vmlinuz-5.13.12-lfs-11.0
-	  cp -iv System.map /boot/System.map-5.13.12
+    cp -iv System.map /boot/System.map-5.13.12
     cp -iv .config /boot/config-5.13.12
     ```
 6. Edit `/etc/X11/xorg.conf` and `~/xorg.conf.new` and adjust the driver and BusID with the VGA information that you get from `lspci` command.
@@ -81,7 +81,7 @@ You may check the /boot/grub/grub.cfg (from CAELinux filesystem directory,then s
     BusID "PCI:1:0:0"
     ```
  
-#### Important kernel module for GFreyaOS in Dual Boot:
+## Important kernel module for GFreyaOS in Dual Boot:
 1. Device Drivers -> Graphics Support
     * [M] DRM drifver for VMWare Virtual GPU
     * [*] Enable framebuffer console under vmwgfx by default
