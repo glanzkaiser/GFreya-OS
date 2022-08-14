@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bullet
+Comment=Physics SDK
+Exec=xterm -hold -e 'cd /opt/hamzstlib/Physics/bullet/examples/ExampleBrowser/ && ./App_ExampleBrowser'
+Icon=/opt/hamzstlib/icon/Bullet.png
+Categories=Hamzstlab
+Version=3.2.4
+Type=Application
+Terminal=0

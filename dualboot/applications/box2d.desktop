@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Box2D
+Comment=2D Physics Engine for Game
+Exec=box2d
+Icon=/opt/hamzstlib/icon/box2d.png
+Categories=Hamzstlab
+Version=2.4.1
+Type=Application
+Terminal=0

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Python IDLE3
+Comment=Run and Test Python Modules
+Exec=idle3
+Icon=/opt/hamzstlib/icon/idle.png
+Categories=Development;IDE
+Version=3
+Type=Application
+Terminal=0

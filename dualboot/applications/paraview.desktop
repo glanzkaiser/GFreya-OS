@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Paraview
+Comment=Data analysis and visualization
+Exec=paraview
+Icon=/opt/hamzstlib/icon/pvIcon.icns
+Categories=Hamzstlab
+Version=5.10.0
+Type=Application
+Terminal=0

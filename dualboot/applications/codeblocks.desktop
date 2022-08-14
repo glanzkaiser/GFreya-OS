@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CodeBlocks
+Comment=Design C++ Apps
+Exec=/opt/codeblocks/bin/codeblocks
+Icon=/opt/hamzstlib/icon/codeblocks.ico
+Categories=Development;IDE
+Version=16.01
+Type=Application
+Terminal=0
