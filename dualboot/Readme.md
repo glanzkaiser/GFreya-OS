@@ -1,4 +1,7 @@
 # About 
+How to Move GFreya OS from Qemu to Dual Boot with CAELinux.
+
+# Files Needed for Adjustment
 For dual boot configuration put these files in:
 
 1. grub.cfg -> /boot/grub
