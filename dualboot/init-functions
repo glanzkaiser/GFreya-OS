@@ -651,15 +651,24 @@ log_failure_msg2()
 ################################################################################
 log_warning_msg()
 {
-    /bin/echo -n -e "${BMPREFIX}${@}"
-    /bin/echo -e "${CURS_ZERO}${WARNING_PREFIX}${SET_COL}${WARNING_SUFFIX}"
-
-    # Strip non-printable characters from log file
-    logmessage=`echo "${@}" | sed 's/\\\033[^a-zA-Z]*.//g'`
-    timespec
-    /bin/echo -e "${STAMP} ${logmessage} WARN" >> ${BOOTLOG}
-    
-    return 0
+    psplash > /dev/null 2>&1 &
+		
+	 psplash-write "PROGRESS 0"
+	 psplash-write "Zaqhiel "
+	 sleep 1
+	 psplash-write "PROGRESS 25"
+	 psplash-write "Lucrif Mischkra Caldraz"
+	 sleep 1
+	 psplash-write "PROGRESS 50"
+	 psplash-write "Zalsvik Zalsimourg"
+	 sleep 1
+	 psplash-write "PROGRESS 75"
+	 psplash-write "Hamzst and Lasthrim"
+	 sleep 1
+	 psplash-write "PROGRESS 100"
+	 psplash-write "Freya, tout pour Toi"
+	 sleep  1
+	 psplash-write QUIT
 }
 
 log_skip_msg()
