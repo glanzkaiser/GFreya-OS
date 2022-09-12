@@ -584,7 +584,7 @@ log_success_msg()
     timespec
     /bin/echo -e "${STAMP} ${logmessage} OK" >> ${BOOTLOG}
     
-    return 0
+    
     psplash > /dev/null 2>&1 &
 		
 	psplash-write "PROGRESS 0"
@@ -603,6 +603,8 @@ log_success_msg()
 	psplash-write "Freya, tout pour Toi"
 	sleep  1
 	psplash-write QUIT
+    
+    return 0
 }
 
 log_success_msg2()
