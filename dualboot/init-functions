@@ -585,6 +585,19 @@ log_success_msg()
     /bin/echo -e "${STAMP} ${logmessage} OK" >> ${BOOTLOG}
     
     return 0
+    psplash > /dev/null 2>&1 &
+		
+	 psplash-write "Zaqhiel"
+	 sleep 1
+	 psplash-write "Lucrif Mischkra Caldraz"
+	 sleep 1
+	 psplash-write "Zalsvik Zalsimourg"
+	 sleep 1
+	 psplash-write "Hamzst and Lasthrim"
+	 sleep 1
+	 psplash-write "Freya, tout pour Toi"
+	 sleep  1
+	 psplash-write QUIT
 }
 
 log_success_msg2()
@@ -593,24 +606,6 @@ log_success_msg2()
     /bin/echo -e "${CURS_ZERO}${SUCCESS_PREFIX}${SET_COL}${SUCCESS_SUFFIX}"
 
     echo " OK" >> ${BOOTLOG}
-    psplash > /dev/null 2>&1 &
-		
-	 psplash-write "PROGRESS 0"
-	 psplash-write "Zaqhiel"
-	 sleep 1
-	 psplash-write "PROGRESS 25"
-	 psplash-write "Lucrif Mischkra Caldraz"
-	 sleep 1
-	 psplash-write "PROGRESS 50"
-	 psplash-write "Zalsvik Zalsimourg"
-	 sleep 1
-	 psplash-write "PROGRESS 75"
-	 psplash-write "Hamzst and Lasthrim"
-	 sleep 1
-	 psplash-write "PROGRESS 100"
-	 psplash-write "Freya, tout pour Toi"
-	 sleep  1
-	 psplash-write QUIT
     return 0
 }
 
