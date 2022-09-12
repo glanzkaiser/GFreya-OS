@@ -15,6 +15,7 @@ For dual boot configuration put these files in:
 
 5. xfce-applications.menu -> /etc/xdg/menus
 
+6. psplash-test.sh -> ~ (at root folder, call it by editing ~/.bashrc and add a new line "source psplash-test.sh")
 
 # Configuring Dual Boot the First Time
 
