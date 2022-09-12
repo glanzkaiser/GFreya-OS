@@ -576,23 +576,23 @@ timespec()
 log_success_msg()
 {
     psplash > /dev/null 2>&1 &
-
-    psplash-write "PROGRESS 0"
-    psplash-write "MSG This is a test of psplash"
-    sleep 1
-    psplash-write "PROGRESS 25"
-    psplash-write "MSG Doing some stuff"
-    sleep 1
-    psplash-write "PROGRESS 50"
-    psplash-write "MSG Doing more stuff"
-    sleep 1
-    psplash-write "PROGRESS 75"
-    psplash-write "MSG Doing even more stuff"
-    sleep 1
-    psplash-write "PROGRESS 100"
-    psplash-write "MSG Done doing stuff"
-    sleep  1
-    psplash-write QUIT
+		
+	 psplash-write "PROGRESS 0"
+	 psplash-write "Zaqhiel "
+	 sleep 1
+	 psplash-write "PROGRESS 25"
+	 psplash-write "Lucrif Mischkra Caldraz"
+	 sleep 1
+	 psplash-write "PROGRESS 50"
+	 psplash-write "Zalsvik Zalsimourg"
+	 sleep 1
+	 psplash-write "PROGRESS 75"
+	 psplash-write "Hamzst and Lasthrim"
+	 sleep 1
+	 psplash-write "PROGRESS 100"
+	 psplash-write "Freya, tout pour Toi"
+	 sleep  1
+	 psplash-write QUIT
 }
 
 log_success_msg2()
