@@ -1,0 +1,20 @@
+# This file is located under /etc/rc.d/init.d
+# Create symlink to show under/etc/rc.d/rc5.d
+
+#!/bin/sh
+########################################################################
+# Begin bootsplash
+#
+# Description : splash screen from psplash
+#
+# Authors     : Glanz & Freya <zaqhielhorus@email.com>
+#
+# Version     : BLFS 11.0 System V
+#
+# Notes       : Try to create splash screen for GFreya OS 
+#             : Based on BLFS 11.0 System V 
+#               
+#
+########################################################################
+
+	 psplash-write QUIT
