@@ -1,0 +1,37 @@
+# This file is located under /etc/rc.d/init.d
+# Create symlink to show under/etc/rc.d/rc5.d
+
+#!/bin/sh
+########################################################################
+# Begin bootsplash
+#
+# Description : splash screen from psplash
+#
+# Authors     : Glanz & Freya <zaqhielhorus@email.com>
+#
+# Version     : BLFS 11.0 System V
+#
+# Notes       : Try to create splash screen for GFreya OS 
+#             : Based on BLFS 11.0 System V 
+#               
+#
+########################################################################
+
+psplash > /dev/null 2>&1 &
+		
+	 psplash-write "PROGRESS 0"
+	 psplash-write "Zaqhiel"
+	 sleep 1
+	 psplash-write "PROGRESS 25"
+	 psplash-write "Lucrif Mischkra Caldraz"
+	 sleep 1
+	 psplash-write "PROGRESS 50"
+	 psplash-write "Zalsvik Zalsimourg"
+	 sleep 1
+	 psplash-write "PROGRESS 75"
+	 psplash-write "Hamzst and Lasthrim"
+	 sleep 1
+	 psplash-write "PROGRESS 100"
+	 psplash-write "Freya, tout pour Toi"
+	 sleep  1
+	
