@@ -33,5 +33,5 @@ psplash > /dev/null 2>&1 &
 	 sleep 1
 	 psplash-write "PROGRESS 100"
 	 psplash-write "Freya, tout pour Toi"
-	 sleep  1
+	 sleep 1
 	
