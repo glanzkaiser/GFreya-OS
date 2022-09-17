@@ -15,7 +15,7 @@ For dual boot configuration put these files in:
 
 5. xfce-applications.menu -> /etc/xdg/menus
 
-6. psplash-test.sh -> ~ (at root folder, call it by editing ~/.bashrc and add a new line "source psplash-test.sh")
+6. psplash to create simple splash screen -> Read below for more details
 
 # Configuring Dual Boot the First Time
 
@@ -91,7 +91,34 @@ You may check the /boot/grub/grub.cfg (from CAELinux filesystem directory,then s
     Driver "nouveau"
     BusID "PCI:1:0:0"
     ```
- 
+## psplash Create Splash Screen for GFreya OS
+
+```
+git clone https://git.yoctoproject.org/psplash
+```
+
+Enter the directory then as root, type:
+
+```
+autoreconf -fiv
+./configure --prefix=/usr
+make
+make install
+```
+
+To learn how to change the image, read GFreya-OS book.
+
+Afterwards, as root create bootsplash and endsplash (it is located in this repository under /GFreya-OS/dualboot/etc/init.d) put them under /etc/rc.d/init.d and then create symlinks as root:
+
+```
+ln -sfv /etc/rc.d/init.d/bootsplash /etc/rc.d/rc3.d/S02bootsplash 
+ln -sfv /etc/rc.d/init.d/bootsplash /etc/rc.d/rc5.d/S02bootsplash 
+ln -sfv /etc/rc.d/init.d/endsplash /etc/rc.d/rc3.d/S40endsplash 
+ln -sfv /etc/rc.d/init.d/endsplash /etc/rc.d/rc5.d/S40endsplash 
+```
+
+After you reboot then you will see the splash screen
+
 ## Important kernel module for GFreyaOS in Dual Boot:
 1. Device Drivers -> Graphics Support
     * [M] DRM drifver for VMWare Virtual GPU
