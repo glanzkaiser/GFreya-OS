@@ -1,5 +1,7 @@
 # This file is located under /etc/rc.d/init.d
-# Create symlink to show under/etc/rc.d/rc5.d
+# Create symlink to show under/etc/rc.d/rc5.d and /etc/rc.d/rc3.d
+# ln -sfv /etc/rc.d/init.d/bootsplash /etc/rc.d/rc3.d/S02bootsplash 
+# ln -sfv /etc/rc.d/init.d/bootsplash /etc/rc.d/rc5.d/S02bootsplash 
 
 #!/bin/sh
 ########################################################################
