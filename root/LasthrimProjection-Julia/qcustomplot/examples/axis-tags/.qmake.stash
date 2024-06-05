@@ -1,0 +1,36 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 201703L
+QMAKE_CXX.QMAKE_GCC_MAJOR_VERSION = 11
+QMAKE_CXX.QMAKE_GCC_MINOR_VERSION = 2
+QMAKE_CXX.QMAKE_GCC_PATCH_VERSION = 0
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_GCC_MAJOR_VERSION \
+    QMAKE_GCC_MINOR_VERSION \
+    QMAKE_GCC_PATCH_VERSION
+QMAKE_CXX.INCDIRS = \
+    /usr \
+    /opt/hamzstlib/include/opencv4 \
+    /opt/hamzstlib/include \
+    /opt/hamzstlib/include/eigen3/Eigen \
+    /opt/caldrazgames/include \
+    /opt/hamzstlib/Kitware/install/paraview510/include \
+    /usr/include/c++/11.2.0 \
+    /usr/include/c++/11.2.0/x86_64-pc-linux-gnu \
+    /usr/include/c++/11.2.0/backward \
+    /usr/lib/gcc/x86_64-pc-linux-gnu/11.2.0/include \
+    /usr/local/include \
+    /usr/lib/gcc/x86_64-pc-linux-gnu/11.2.0/include-fixed \
+    /usr/include
+QMAKE_CXX.LIBDIRS = \
+    /usr/lib \
+    /usr/local/lib \
+    /opt/hamzstlib/lib \
+    /opt/hamzstlib/Kitware/install/VTK/lib \
+    /opt/hamzstlib/grass80/lib \
+    /opt/hamzstlib/Kitware/install/paraview510/lib \
+    /opt/caldrazgames/lib \
+    /usr/lib/gcc/x86_64-pc-linux-gnu/11.2.0 \
+    /lib \
+    /opt/hamzstlib/lib/openmpi \
+    /opt/hamzstlib/include/opencv4 \
+    /opt/caldrazgames/lib/OGRE

@@ -1,0 +1,33 @@
+I love my wife
+and I use GFreya OS
+
+I pray that I can take care of it
+I pray that I will find my glasses in VP tomorrow -> Find it, but the right handle is bent
+I pray it can be repaired by Sunday/Monday
+
+Je prie pour pouvoir m'en occuper / Je prie pour pouvoir le maintenir
+
+We aim for the highest quality,
+for Lasthrim' Linear Algebra part, no need to recreate 100% copy of the image
+the reader, anyone should be able to use their imagination.
+-Freya
+
+***************************LATEX cheat sheet************************************
+∃𝛿>0: ∀ ↔ø π ≰△
+△
+
+plot!([2,2],[0,f(2)], label="", linecolor=:green)
+plot!([0], seriestype="vline", color=:green, label="")
+plot!(f,3,3.2, label="", fill=(0, 0.15, :blue))
+
+plot(xformatter = x->string(Int(x/1000)," "),)
+
+scatter!([4], [f(4)], color = "red1", label="", markersize = 3)
+annotate!([(2.6,4, (L"(2,4)", 10, :black))])
+
+plot(rand(40),xtickfontsize=18,ytickfontsize=18,
+xlabel="wavelength",xguidefontsize=18,yscale=:log10,
+ylabel="flux",yguidefontsize=18,legendfontsize=18) 
+
+savefig("plot.png")
+savefig(d,"plot.png")

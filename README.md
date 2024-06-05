@@ -37,7 +37,8 @@ https://drive.google.com/drive/folders/1qqbiM9qYu5HQScK4d22tO48komn9OjZP?usp=sha
 
 ## Link to Download GFreya OS book (still need revisions and the literature learning part is not finished):
 
-https://drive.google.com/drive/folders/1cTMHuKRQa5sGKPLm9Ue3eF7WAq01Kvon?usp=sharing
+# Last Update: June 5, 2024 
+https://drive.google.com/file/d/10E_LdlkSxIQwBdgIgsSNhLu1oQmibOY2/view?usp=drive_link
 
 ## Finish on June 25th 2022, 20:37 pm (GMT+7):
 
