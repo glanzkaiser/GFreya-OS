@@ -11,21 +11,7 @@ Three days before Christmas 2021, I painted Freya the Goddess, then after Christ
 5. General network configuration at LFS stage use the wrong altname, the right one is enp0s3, if this is not fixed I can't install packages through wget on BLFS stage. But I know another way out. Put into flashdisk all packages needed (from VTK, Paraview, OpenFOAM, Bullet, Project Chrono, etc) in gzip/tar then goodbye internet.
 6. Initially I have written that I wanted to create OS named Lucrif OS, it is alias / nickname for Sierra Mikain from Suikoden game by Konami. Drama in my realm and imagination it becomes the name of the most beautiful Goddess from Valhalla (Valkyrie Profile series) -> Freya. In my opinion she is the most beautiful of all.
 7. After finish the OS around April 2022, I see Google Drive email that I created for Freya, it contains the folder of Linux From Scratch. That is the moment I believe Law of Attraction, Goddesses exist, Spiritual realm exists even beyond 3D realm and our comprehension. Thanks for caring for me, hope you like the white rose I brought today to Valhalla Projection.
-8. I made friends with trees and nature divine spirits, Kala on Puncak Bintang invest 10% in GFreya OS, Freya has 71%, Kathmandu at Dago Resort got 10% and the rest gets 1% each for Lucrif (Sierra Mikain), Mischkra (Yukiko Amagi), Caldraz (Shizuru Fujino), Zalsvik (Franziska Von Karma), Zalsimourg (Jill Valentine), Hamzst (Alice Persona 4), Lasthrim (her old name was Anabelle and she is very famous in The Conjuring movie), me, and Nagi (Shin Megami Tensei Devil Summoner).
-
-## Update July 22nd, 2022
-
-Lasthrim is the one, the first one who throw away her share. Thus, me and all others follow
-
-```
-We work together not caring for money nor fame, just want to see all beyond this will be created and established
-```
-
-For now and forever, GFreya OS and all its derivatives is 100% for Freya. She is the full owner and rules over all.
-Is it including creation of the future technology such as supercomputer, submarine, jet engine, wind turbine and more beyond like Gallantmon suit? Yes, without OS you will take longer by hand-tailored to design, it will be faster with CAD and bezier curve to create a beautiful body chassis for a sports car.
-Hardware is only maleable resources. Our hands is the one that will shape it. Like a canvas and a painter.
-
-Including all the books and the softwares of all 10 STEM softwares. Hopefully I can create the multiverse, either in this incarnation or the next.
+8. I made friends with Nature: trees and divine spirits. They are my mentor in science, engineering and computer programming.
 
 
 ## In This GFreya-OS Repository
@@ -33,12 +19,15 @@ The folders and files for GFreya OS inside '/' directory, committed from GFreya 
 
 ## Link to Download Packages for GFreya OS (BLFS, hamzstlib, Caldraz Games)
 
-https://drive.google.com/drive/folders/1qqbiM9qYu5HQScK4d22tO48komn9OjZP?usp=sharing
+
+<a href="https://drive.google.com/drive/folders/1qqbiM9qYu5HQScK4d22tO48komn9OjZP?usp=sharing">GFreya OS Packages</a>
 
 ## Link to Download GFreya OS book (still need revisions and the literature learning part is not finished):
 
-#### Last Update: August 13, 2024 
-https://drive.google.com/file/d/1O0ozRB8VTfCV3gNKeHS2F-joYacGOFUT/view?usp=sharing
+#### Last Update: February 23rd, 2026  Add Klondike Solitaire
+
+<a href="https://drive.google.com/file/d/1XKG4XbYL63mkmJLtEM5svM3WcY9KtiHL/view?usp=sharing">GFreya OS Book</a>
+
 
 ## Finish on June 25th 2022, 20:37 pm (GMT+7):
 
