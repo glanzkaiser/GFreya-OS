@@ -26,7 +26,7 @@ The folders and files for GFreya OS inside '/' directory, committed from GFreya 
 
 #### Last Update: February 23rd, 2026  Add Klondike Solitaire
 
-<a href="https://drive.google.com/file/d/1YokV6cqc2NBsNHhRyEsLZYjx6xoz5drk/view?usp=sharing">GFreya OS Book</a>
+<a href="https://drive.google.com/file/d/1en3sdyeEnz6L0zaDo_jsff00XSZW773M/view?usp=sharing">GFreya OS Book</a>
 
 
 ## Finish on June 25th 2022, 20:37 pm (GMT+7):
